@@ -1,0 +1,2 @@
+# ECA
+Ethical Consumption Assistant
